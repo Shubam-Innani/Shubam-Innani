@@ -22,8 +22,10 @@ I’m continuously expanding my expertise in **data analytics**, **supply chain 
 
 ## 🔍 Let’s Connect
 
-Always open to meaningful conversations, collaborations, and opportunities to drive smarter, data-powered supply chains — constantly learning, growing, and creating value.
+Always open to conversations, collaborations, and opportunities to drive smarter, data-powered supply chains — constantly learning, growing, and creating value.
+  
+📧 **Email**: [innanishubam@gmail.com](mailto:innanishubam@gmail.com) | [shubam.innani@tamu.edu](mailto:shubam.innani@tamu.edu)
 
-📧 **Contact**  
-`innanishubam@gmail.com`  
-`shubam.innani@tamu.edu`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubaminnani/)  
+
