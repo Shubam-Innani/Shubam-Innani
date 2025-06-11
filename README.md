@@ -4,7 +4,7 @@ With hands-on experience at Moderna, Skyworks Solutions, and Accenture, I’ve w
 
 I’m continuously expanding my expertise in data analytics, supply chain systems, and manufacturing operations. I’m currently completing the MITx MicroMasters Program in Supply Chain Management to deepen my knowledge in global planning, strategy, and technology systems.
 
-🔧 Core Competencies
+🔧 Core Competencies:
 • 📦 Supply Chain Strategy & Demand Forecasting
 • 📊 Procurement & Strategic Sourcing
 • 📈 Data Analysis & Business Intelligence
