@@ -29,3 +29,6 @@ Always open to conversations, collaborations, and opportunities to drive smarter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubaminnani/)  
 
+---
+
+📂 Building my portfolio — projects will be uploaded shortly
